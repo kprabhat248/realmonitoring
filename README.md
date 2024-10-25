@@ -94,8 +94,8 @@ The application continuously monitors the weather in the specified cities in a b
 License
 
 This project is licensed under the MIT License.
+Accessing API Documentation
 
-csharp
-Copy code
+You can view the interactive API documentation at http://localhost:8000/docs. This page provides detailed information about all available endpoints and how to use them.
 
-You can copy this entire block into a `README.md` file. Thank you for your patience, and let me know if there’s anything else you need!
+
