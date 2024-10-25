@@ -23,7 +23,9 @@ Before running the application, set the following environment variables or updat
 
 - `API_KEY`: Your OpenWeatherMap API key. 
 - `REDIS_URL`: URL for your Redis instance (default: `redis://localhost:6379`). 
-- `POSTGRES_URL`: Connection string for your PostgreSQL database (default: `postgresql://postgres:12345@localhost/weatherdb`). 
+- `POSTGRES_URL`: Connection string for your PostgreSQL database (default: `postgresql://postgres:12345@localhost/weatherdb`).
+  
+You can view the interactive API documentation at http://localhost:8000/docs. This page provides detailed information about all available endpoints and how to use them.
 
 You can configure the list of cities to monitor by updating the `CITIES` variable in the code: 
 
